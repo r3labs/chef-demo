@@ -1,3 +1,3 @@
-# apache2
+# chef-demo
 
 This basic cookbook configures Apache on Ubuntu.

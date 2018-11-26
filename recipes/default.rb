@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: apache2
+# Cookbook Name:: chef-demo
 # Recipe:: default
 #
 # Copyright (c) 2016 The Authors, All Rights Reserved.
